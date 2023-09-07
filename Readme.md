@@ -1,0 +1,1 @@
+![auth-resource-server.jpg](images/auth-resource-server.jpg)
